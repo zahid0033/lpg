@@ -18,11 +18,11 @@
             var navHeight = $('.top_bar').height();
             if ($(window).scrollTop() > navHeight) {
                 $('.nav-bar').addClass('fixed');
-                $('.nav-space').addClass('mar-top-fixed-nav').removeClass('mt-3');
+                $('.nav-space').addClass('mar-top-fixed-nav').removeClass('');
             }
             else {
                 $('.nav-bar').removeClass('fixed');
-                $('.nav-space').removeClass('mar-top-fixed-nav').addClass('mt-3');
+                $('.nav-space').removeClass('mar-top-fixed-nav').addClass('');
             }
         });
     });

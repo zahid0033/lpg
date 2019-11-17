@@ -87,7 +87,7 @@
                                     </div>
                                     <div class="col-md-8">
                                         <p>The principles and standards of Dream LPG BD. has made the company one of the most reputed trading organization in Bangladesh and we are
-                                            able to satisfy all our clients need.</p>
+                                            able to satisfy all our clients need.  <span><b> - Rifat Kawsar</b></span></p>
                                     </div>
                                 </div>
                             </div>
@@ -103,9 +103,10 @@
                                     <div class="col-md-4">
                                         <img src="{{ asset('assets/images/random/client.jpg') }}" alt="">
                                     </div>
-                                    <div class="col-md-8">
-                                        <p>The principles and standards of Dream LPG BD. has made the company one of the most reputed trading organization in Bangladesh and we are
-                                            able to satisfy all our clients need. RIFAT Zahid rifat 2</p>
+                                    <div class="col-md-8 text-center">
+                                        <p style="text-align: justify">The principles and standards of Dream LPG BD. has made the company one of the most reputed trading organization in Bangladesh and we are
+                                            able to satisfy all our clients need. <span><b> - Zahid Hossain</b></span></p>
+
                                     </div>
                                 </div>
                             </div>

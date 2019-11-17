@@ -3,7 +3,7 @@
 @section('contact','active_nav')
 @section('content')
 
-<div class="container-fluid">
+<div class="container-fluid nav-space">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.4386402394816!2d90.40888961512292!3d23.73173259540574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8f66bd03e2f%3A0x415808e261f3da38!2sLEvel-6%2C%206%20Purana%20Paltan%2C%20Dhaka%201000!5e0!3m2!1sen!2sbd!4v1573904634406!5m2!1sen!2sbd" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 <div>
