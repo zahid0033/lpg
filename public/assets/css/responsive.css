@@ -1,0 +1,96 @@
+@media only screen  and (max-width: 320px){
+    #hero{
+        display: none;
+    }
+    .navbar-collapse{
+        background: rgb(241, 238, 221);
+        z-index: 2;
+    }
+    .nav_item_design {
+        font-size: 25px !important;
+    }
+    .home-blog-body {
+        height: 265px;
+    }
+}
+@media only screen  and (max-width: 360px) and (min-width: 321px){
+    #hero{
+        display: none;
+    }
+    .navbar-collapse{
+        background: rgb(241, 238, 221);
+        z-index: 2;
+    }
+    .nav_item_design {
+        font-size: 25px !important;
+    }
+    .home-blog-body {
+        height: 265px;
+    }
+}
+@media only screen  and (max-width: 400px) and (min-width: 361px) {
+    #hero{
+        display: none;
+    }
+    .navbar-collapse{
+        background: rgb(241, 238, 221);
+        z-index: 2;
+    }
+    .nav_item_design {
+        font-size: 25px !important;
+    }
+    .home-blog-body {
+        height: 265px;
+    }
+}
+@media only screen  and (max-width: 499px) and (min-width: 401px){
+    #hero{
+        display: none;
+    }
+    .navbar-collapse{
+        background: rgb(241, 238, 221);
+        z-index: 2;
+    }
+    .nav_item_design {
+        font-size: 25px !important;
+    }
+    .home-blog-body {
+        height: 265px;
+    }
+}
+@media only screen  and (max-width: 639px) and (min-width: 500px){}
+@media only screen  and (max-width: 719px) and (min-width: 640px){}
+@media only screen  and (max-width: 1023px) and (min-width: 720px){
+    .navbar-collapse{
+        background: rgb(241, 238, 221);
+        z-index: 2;
+    }
+    .nav_item_design {
+        font-size: 25px !important;
+    }
+    .home-blog-body {
+        height: 350px;
+    }
+    .promotion_card_left span {
+        font-size: 10px;
+    }
+    .promotion_card_right p {
+        line-height: 10px;
+    }
+}
+@media only screen and (max-width: 1300px) and (min-width: 1024px){
+    .promotion_card_right p {
+        line-height: 16px;
+    }
+    .home-blog-body {
+        height: 264px;
+    }
+}
+@media only screen and (max-width: 1367px) and (min-width: 1300px){
+    .promotion_card_right p {
+        line-height: 16px;
+    }
+    .home-blog-body {
+        height: 264px;
+    }
+}
