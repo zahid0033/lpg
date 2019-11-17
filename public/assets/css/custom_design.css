@@ -701,4 +701,11 @@ blockquote p{
 .even{
     padding-left: 5em;
 }
+.more_kits span{
+    background: #f04823;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    color: white;
+}
 /****************  Conversion Kits end *******************  */

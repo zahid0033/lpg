@@ -4,7 +4,7 @@
 @section('content')
     <div class="container">
         <div class="row nav-space">
-            <div class="col-md-6">
+            <div class="col-md-6 mt-5">
                 <span class="heading">
                     <div class="heading_right_design"></div>
                     LPG Auto Tank
@@ -20,7 +20,7 @@
                 </div>
 
             </div>
-            <div class="col-md-6 mb-5">
+            <div class="col-md-6 mt-5 mb-5">
                 <img class="kits_img float-right" src="{{ asset('assets/images/random/lpg_auto_tank.png') }}" alt="">
             </div>
 
@@ -87,7 +87,7 @@
         </div>
 
         <h1 class="heading mt-5 mb-5 text-center">More Kits</h1>
-        <div class="row">
+        <div class="row more_kits">
             <div class="col-md-4 mb-3 text-center">
                 <img src="{{ asset('assets/images/random/solenoide.jpg') }}" height="200" alt="">
                 <span><b>LPG Solenoide</b></span>
