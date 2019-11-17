@@ -8,7 +8,7 @@
 </div>
 <div>
     <div class="container text-center">
-        <h1 class="heading mb-5">Get in Touch</h1>
+        <h1 class="heading mt-3 mb-5">Get in Touch</h1>
         <div class="row margin_top">
 
             <div class="col-md-6">
