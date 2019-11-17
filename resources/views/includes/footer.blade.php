@@ -12,7 +12,7 @@
                 <div class="col-md-4">
                     <div class="row mt-5">
                         <div class="col-md-12 mt-3 mb-5 text-center">
-                            <span><i class="fas fa-envelope-open-text" style="color: white;margin-right: 1em;"></i><span class="footer_text">dreamlpg18@gmail.com</span></span>
+                            <span><i class="fas fa-envelope-open-text" style="color: white;margin-right: 1em;text-shadow: 2px 2px 3px #000000;"></i><span class="footer_text">dreamlpg18@gmail.com</span></span>
                         </div>
                         <div class="col-md-12 text-center">
                             <a class="nav-link social_icon social_icon_two" href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -49,7 +49,8 @@
 
         </div>
 
-</div>
+    </div>
+
 
 
 
