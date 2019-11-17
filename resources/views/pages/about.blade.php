@@ -105,7 +105,7 @@
                                     </div>
                                     <div class="col-md-8">
                                         <p>The principles and standards of Dream LPG BD. has made the company one of the most reputed trading organization in Bangladesh and we are
-                                            able to satisfy all our clients need.</p>
+                                            able to satisfy all our clients need. RIFAT</p>
                                     </div>
                                 </div>
                             </div>
