@@ -29,7 +29,7 @@
 <div class="container-fluid mt-5" style="padding-left: 0">
     <div class="row">
         <div class="col-md-5">
-            <img src="{{ asset('assets/images/random/footer.jpg') }}" alt="">
+            <img src="{{ asset('assets/images/random/banner-4.png') }}" alt="">
         </div>
         <div class="col-md-7 content_padding">
             <h1 class="heading mb-5">
@@ -98,32 +98,32 @@
         <div class="owl-carousel owl-theme " id="carousel01">
             <div class="item">
                 <div class="uni_logo">
-                    <img src="{{asset('assets/images/logo/setcolbd.png')}}" alt="">
+                    <img src="{{asset('assets/images/logo/PVE-Logo.png')}}" alt="">
                 </div>
             </div>
             <div class="item">
                 <div class="uni_logo">
-                    <img src="{{asset('assets/images/logo/logo.png')}}" alt="">
+                    <img src="{{asset('assets/images/logo/PVE-Logo.png')}}" alt="">
                 </div>
             </div>
             <div class="item">
                 <div class="uni_logo">
-                    <img src="{{asset('assets/images/logo/setcolbd.png')}}" alt="">
+                    <img src="{{asset('assets/images/logo/PVE-Logo.png')}}" alt="">
                 </div>
             </div>
             <div class="item">
                 <div class="uni_logo">
-                    <img src="{{asset('assets/images/logo/logo.png')}}" alt="">
+                    <img src="{{asset('assets/images/logo/PVE-Logo.png')}}" alt="">
                 </div>
             </div>
             <div class="item">
                 <div class="uni_logo">
-                    <img src="{{asset('assets/images/logo/setcolbd.png')}}" alt="">
+                    <img src="{{asset('assets/images/logo/PVE-Logo.png')}}" alt="">
                 </div>
             </div>
             <div class="item">
                 <div class="uni_logo">
-                    <img src="{{asset('assets/images/logo/logo.png')}}" alt="">
+                    <img src="{{asset('assets/images/logo/PVE-Logo.png')}}" alt="">
                 </div>
             </div>
 
@@ -139,7 +139,9 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="p-3">
-                    <h3 style="margin-top: 3em">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution</h3>
+                    <h3 style="margin-top: 3em">We are Currently working all over Bangladesh.
+                        Our misssion is to serve a customer base providing innovative international trading and logistics solutions that recognizes
+                        the value of customer care.Soon you will get our station address. Thanks for staying with us</h3>
                 </div>
             </div>
             <div class="col-md-6">
@@ -290,7 +292,7 @@
                 items:4
             },
             1000:{
-                items:4
+                items:3
             }
         }
     });

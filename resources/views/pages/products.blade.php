@@ -101,7 +101,7 @@
         </div>
 
         <h1 class="heading mt-3 mb-5 text-center">LP Gas Bank System of Dream LPG BD. </h1>
-        <div class="row">
+        <div class="row mt-3">
             <div class="col-md-6 mb-3">
                 <div class="specification">
                     <h4 class="mb-3">Contents</h4>
@@ -117,7 +117,7 @@
                 <img src="{{ asset('assets/images/random/lpg_bank.png') }}" height="250" alt="">
             </div>
         </div>
-        <div class="row">
+        <div class="row mt-3">
             <div class="col-md-12">
                 {{--        /**************** accordion use in career at japan start *******************  */ --}}
                 <div id="accordion" class="">
@@ -247,5 +247,20 @@
                 {{--        /**************** accordion use in career at japan end *******************  */ --}}
             </div>
         </div>
+        <div class="row mt-3">
+            <div class="col-md-4 text-center">
+                <img src="{{ asset('assets/images/random/Fuel-tanker.png') }}" height="332" alt="">
+                <b>LPG Bulk carrier</b>
+            </div>
+            <div class="col-md-4 text-center">
+                <img src="{{ asset('assets/images/random/lpg_mother_plant.jpg') }}" height="332" alt="">
+                <b>LPG Mother Plant(proposed),Batia Ghata Khulna</b>
+            </div>
+            <div class="col-md-4 text-center">
+                <img src="{{ asset('assets/images/random/3Wheel.png') }}" height="332" alt="">
+                <b>Three Wheeler</b>
+            </div>
+        </div>
+
     </div>
 @endsection

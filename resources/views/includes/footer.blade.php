@@ -5,7 +5,7 @@
 
                     <h3 class="about_us_text footer_txt">Addresses</h3>
                     <div class="pt-3">
-                        <h5>Israt Tower, 6 Purana Paltan, Lift-6, LEvel-6, Dhaka-1000</h5>
+                        <h5>Israt Tower, 6 Purana Paltan, Lift-6, Level-6, Dhaka-1000</h5>
                     </div>
 
                 </div>
