@@ -609,7 +609,7 @@ textarea {
 }
 #accordion .accordion-body li {
     padding-left: 1.2rem;
-    text-indent: -1.2rem;
+    /*text-indent: -1.2rem;*/
 }
 #accordion .accordion-body li:before {
     /*content: "\f10a";*/

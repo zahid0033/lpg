@@ -28,7 +28,7 @@
                 </li>
 
                 <li class="nav-item  @yield('products')">
-                    <a class="nav-link nav_item_design" href="">Products</a>
+                    <a class="nav-link nav_item_design" href="{{ route('pages.products') }}">Products</a>
                 </li>
                 <li class="nav-item  @yield('contact')">
                     <a class="nav-link nav_item_design" href="{{ route('pages.contact') }}">Contact Us</a>

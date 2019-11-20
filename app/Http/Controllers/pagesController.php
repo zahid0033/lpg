@@ -21,6 +21,9 @@ class pagesController extends Controller
     public function conversion_kits(){
         return view('pages.conversion_kits');
     }
+    public function products(){
+        return view('pages.products');
+    }
     public function contact(){
         return view('pages.contact');
     }
