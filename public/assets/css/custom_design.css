@@ -91,6 +91,9 @@ h1{
 .active_nav .nav_item_design{
     color: #ffffff  !important;
 }
+.active_dropdown{
+    color:red;
+}
 .navbar{
     transition: 0.5s;
 }

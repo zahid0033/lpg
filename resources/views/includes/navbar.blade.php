@@ -21,9 +21,9 @@
                         LPG Conversion
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#"><b>Conversion Station</b></a>
+                        <a class="dropdown-item @yield('conversion_stations')" href="{{ route('pages.conversion_stations') }}"><b>Conversion Stations</b></a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="{{ route('pages.conversion_kits') }}"><b>Conversion Kits</b></a>
+                        <a class="dropdown-item @yield('conversion_kits')" href="{{ route('pages.conversion_kits') }}"><b>Conversion Kits</b></a>
                     </div>
                 </li>
 

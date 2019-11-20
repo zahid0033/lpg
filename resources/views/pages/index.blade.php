@@ -30,7 +30,6 @@
     <div class="row">
         <div class="col-md-5">
             <img src="{{ asset('assets/images/random/footer.jpg') }}" alt="">
-
         </div>
         <div class="col-md-7 content_padding">
             <h1 class="heading mb-5">
