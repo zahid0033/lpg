@@ -239,7 +239,7 @@
                     </ul>
                 </div>
                 <div class="col-md-2">
-                    <a href="#" class="btn " style="color: #ffffff;background: #00d0ff;border: 1px solid #00d0ff;">Download PDF</a>
+                    <a href="{{ asset('assets/pdf/lpg.pdf') }}" class="btn" download style="color: #ffffff;background: #00d0ff;border: 1px solid #00d0ff;">Download PDF</a>
                 </div>
             </div>
         </div>

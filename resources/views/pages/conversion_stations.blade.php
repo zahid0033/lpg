@@ -12,7 +12,7 @@
                 the value of customer care.Soon you will get our station address. Thanks for staying with us</h2>
         </div>
         <div class="col-md-6">
-                <img src="http://localhost:8000/assets/images/random/bubble-map.gif" alt="">
+                <img src="{{ asset('assets/images/random/bubble-map.gif') }}" alt="">
         </div>
     </div>
 </div>
