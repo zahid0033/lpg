@@ -83,11 +83,12 @@
                             <div class="card-body accordion-body">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="{{ asset('assets/images/random/client.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/random/profile.png') }}" alt="">
                                     </div>
                                     <div class="col-md-8">
                                         <p>The principles and standards of Dream LPG BD. has made the company one of the most reputed trading organization in Bangladesh and we are
-                                            able to satisfy all our clients need.  <span><b> - Rifat Kawsar</b></span></p>
+                                            able to satisfy all our clients need.  </p>
+                                        <p class="text-right"><span><b> - H.M Zahirul Alam(Selim)</b></span> <br><span>--Managing Director</span></p>
                                     </div>
                                 </div>
                             </div>
@@ -101,11 +102,11 @@
                             <div class="card-body accordion-body">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="{{ asset('assets/images/random/client.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/random/profile.png') }}" alt="">
                                     </div>
                                     <div class="col-md-8 text-center">
                                         <p style="text-align: justify">The principles and standards of Dream LPG BD. has made the company one of the most reputed trading organization in Bangladesh and we are
-                                            able to satisfy all our clients need. <span><b> - Zahid Hossain</b></span></p>
+                                            able to satisfy all our clients need.</p>
 
                                     </div>
                                 </div>

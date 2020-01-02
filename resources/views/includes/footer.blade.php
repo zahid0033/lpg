@@ -5,14 +5,18 @@
 
                     <h3 class="about_us_text footer_txt">Addresses</h3>
                     <div class="pt-3">
-                        <h5>Israt Tower, 6 Purana Paltan, Lift-6, Level-6, Dhaka-1000</h5>
+                        <h5>Israt Tower, 6 Purana Paltan, Lift-6, Level-6, Dhaka-1000,Bangladesh</h5>
                     </div>
 
                 </div>
                 <div class="col-md-4">
                     <div class="row mt-5">
                         <div class="col-md-12 mt-3 mb-5 text-center">
-                            <span><i class="fas fa-envelope-open-text" style="color: white;margin-right: 1em;text-shadow: 2px 2px 3px #000000;"></i><span class="footer_text">dreamlpg18@gmail.com</span></span>
+
+                            <span class="text-left">
+                                <p><i class="fas fa-envelope-open-text" style="color: white;margin-right: 1em;text-shadow: 2px 2px 3px #000000;"></i><span class="footer_text">dreamlpg18@gmail.com</span></p>
+                                <p><i class="fas fa-envelope-open-text" style="color: white;margin-right: 1em;text-shadow: 2px 2px 3px #000000;"></i><span class="footer_text">info@dreamlpg.com</span></p>
+                            </span>
                         </div>
                         <div class="col-md-12 text-center">
                             <a class="nav-link social_icon social_icon_two" href="" target="_blank"><i class="fab fa-facebook-f"></i></a>

@@ -15,7 +15,7 @@
                     </ul>
                 </div>
             </div>
-
+ 
             <div class="col-md-12">
                 <div class="rows grid data-isotope='{ 'itemSelector': '.grid-item', 'masonry': { 'columnWidth': 200 } }'">
                 <div class="col-md-4 grid-item logic" data-category="websites">

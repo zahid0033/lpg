@@ -96,6 +96,7 @@ h1{
 }
 .navbar{
     transition: 0.5s;
+    /*z-index: 99;*/
 }
 .navbar-nav {
     display: -ms-flexbox;
@@ -713,3 +714,9 @@ blockquote p{
     color: white;
 }
 /****************  Conversion Kits end *******************  */
+
+
+
+
+
+

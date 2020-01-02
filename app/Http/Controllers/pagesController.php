@@ -27,4 +27,14 @@ class pagesController extends Controller
     public function contact(){
         return view('pages.contact');
     }
+
+    public function lpg()
+    {
+        return view('pages.lpg');
+    }
+
+    public function lpg_ragulated()
+    {
+        return view('pages.lpg_ragulated');
+    }
 }

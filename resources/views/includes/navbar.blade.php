@@ -10,8 +10,11 @@
                 <li class="nav-item @yield('home')">
                     <a class="nav-link nav_item_design" href="{{ route('pages.index') }}">Home</a>
                 </li>
+{{--                <li class="nav-item  @yield('about')">--}}
+{{--                    <a class="nav-link nav_item_design" href="{{ route('pages.about') }}">About Us</a>--}}
+{{--                </li>--}}
                 <li class="nav-item  @yield('about')">
-                    <a class="nav-link nav_item_design" href="{{ route('pages.about') }}">About Us</a>
+                    <a class="nav-link nav_item_design" href="{{ url('/about') }}">About Us</a>
                 </li>
                 <li class="nav-item  @yield('lpg_station')">
                     <a class="nav-link nav_item_design" href="{{ route('pages.lpg_station') }}">LPG Stations</a>
@@ -27,9 +30,18 @@
                     </div>
                 </li>
 
-                <li class="nav-item  @yield('products')">
-                    <a class="nav-link nav_item_design" href="{{ route('pages.products') }}">Products</a>
+
+                <li class="nav-item dropdown  @yield('products')">
+                    <a class="nav-link nav_item_design dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Products
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item @yield('lpg')" href="{{ route('pages.lpg') }}"><b>LPG</b></a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item @yield('lpg_ragulated')" href="{{ route('pages.lpg_ragulated') }}"><b>LPG Regulated System</b></a>
+                    </div>
                 </li>
+
                 <li class="nav-item  @yield('contact')">
                     <a class="nav-link nav_item_design" href="{{ route('pages.contact') }}">Contact Us</a>
                 </li>

@@ -9,7 +9,7 @@
         <div class="owl-carousel owl-theme " id="carousel02">
             <div class="item">
                 <div class="uni_logo">
-                    <img src="{{asset('assets/images/random/banner-1.jpg')}}" alt="">
+                    <img src="{{asset('assets/images/random/banner-new--1.jpg')}}" alt="">
                 </div>
             </div>
             <div class="item">
@@ -22,6 +22,7 @@
                     <img src="{{asset('assets/images/random/banner-3.jpg')}}" alt="">
                 </div>
             </div>
+
         </div>
     </div>
 </div>
@@ -239,7 +240,7 @@
                     </ul>
                 </div>
                 <div class="col-md-2">
-                    <a href="{{ asset('assets/pdf/lpg.pdf') }}" class="btn" download style="color: #ffffff;background: #00d0ff;border: 1px solid #00d0ff;">Download PDF</a>
+                    <a href="{{ asset('assets/pdf/Dream_lpg_flyer__new_compressed.pdf') }}" class="btn" download style="color: #ffffff;background: #00d0ff;border: 1px solid #00d0ff;">Download PDF</a>
                 </div>
             </div>
         </div>
